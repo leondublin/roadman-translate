@@ -1,0 +1,85 @@
+h1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.67), #aa1717);
+  text-align: center;
+  padding: 20px;
+}
+
+p {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.67), #aa1717);
+}
+
+{
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 10px;
+}
+
+p{
+  text-align:center
+}
+
+h2{
+  text-align:center
+}
+
+h1 {
+  text-shadow: 2px 2px #d31d1d;
+}
+
+p {
+  border-style: dotted;
+}
+
+img{
+  text-align: center;
+}
+
+body{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.67), #3b3e5c);
+}
+
+body {
+  color: #fefeff;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.67), #aa1717);
+}
+
+ul {
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+img {
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
